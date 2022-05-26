@@ -1,0 +1,7 @@
+C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\arrays\ArraysAppConsole\ArraysAppConsole\bin\Debug\ArraysAppConsole.exe.config
+C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\arrays\ArraysAppConsole\ArraysAppConsole\bin\Debug\ArraysAppConsole.exe
+C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\arrays\ArraysAppConsole\ArraysAppConsole\bin\Debug\ArraysAppConsole.pdb
+C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\arrays\ArraysAppConsole\ArraysAppConsole\obj\Debug\ArraysAppConsole.csprojAssemblyReference.cache
+C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\arrays\ArraysAppConsole\ArraysAppConsole\obj\Debug\ArraysAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\arrays\ArraysAppConsole\ArraysAppConsole\obj\Debug\ArraysAppConsole.exe
+C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\arrays\ArraysAppConsole\ArraysAppConsole\obj\Debug\ArraysAppConsole.pdb

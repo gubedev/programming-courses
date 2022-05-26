@@ -1,0 +1,7 @@
+C:\Users\gusta\Desktop\dotnet\try-dotnet\1-basic\CalculatorAppConsole\CalculatorAppConsole\bin\Release\CalculatorAppConsole.exe.config
+C:\Users\gusta\Desktop\dotnet\try-dotnet\1-basic\CalculatorAppConsole\CalculatorAppConsole\bin\Release\CalculatorAppConsole.exe
+C:\Users\gusta\Desktop\dotnet\try-dotnet\1-basic\CalculatorAppConsole\CalculatorAppConsole\bin\Release\CalculatorAppConsole.pdb
+C:\Users\gusta\Desktop\dotnet\try-dotnet\1-basic\CalculatorAppConsole\CalculatorAppConsole\obj\Release\CalculatorAppConsole.csprojAssemblyReference.cache
+C:\Users\gusta\Desktop\dotnet\try-dotnet\1-basic\CalculatorAppConsole\CalculatorAppConsole\obj\Release\CalculatorAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\dotnet\try-dotnet\1-basic\CalculatorAppConsole\CalculatorAppConsole\obj\Release\CalculatorAppConsole.exe
+C:\Users\gusta\Desktop\dotnet\try-dotnet\1-basic\CalculatorAppConsole\CalculatorAppConsole\obj\Release\CalculatorAppConsole.pdb
