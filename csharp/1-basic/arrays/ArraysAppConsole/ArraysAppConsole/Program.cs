@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.SqlClient;
 
 namespace ArraysAppConsole
 {
@@ -89,7 +90,7 @@ namespace ArraysAppConsole
             {
                 // búsqueda rustica :-)
                 var foundedIssue = FindIssue(issue.Id);
-                if (foundedIssue == null)
+                if (foundedIssue != null)
                 {
                     Console.WriteLine(string.Format("Cannot add issue {0} there is already an issue with that id", issue.Id));
                     return;
