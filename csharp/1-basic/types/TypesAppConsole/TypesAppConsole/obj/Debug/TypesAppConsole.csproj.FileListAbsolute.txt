@@ -1,7 +1,0 @@
-C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\types\TypesAppConsole\TypesAppConsole\bin\Debug\CalculatorAppConsole.exe.config
-C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\types\TypesAppConsole\TypesAppConsole\bin\Debug\CalculatorAppConsole.exe
-C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\types\TypesAppConsole\TypesAppConsole\bin\Debug\CalculatorAppConsole.pdb
-C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\types\TypesAppConsole\TypesAppConsole\obj\Debug\TypesAppConsole.csprojAssemblyReference.cache
-C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\types\TypesAppConsole\TypesAppConsole\obj\Debug\TypesAppConsole.csproj.CoreCompileInputs.cache
-C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\types\TypesAppConsole\TypesAppConsole\obj\Debug\CalculatorAppConsole.exe
-C:\Users\gusta\Desktop\programming-courses\csharp\1-basic\types\TypesAppConsole\TypesAppConsole\obj\Debug\CalculatorAppConsole.pdb
