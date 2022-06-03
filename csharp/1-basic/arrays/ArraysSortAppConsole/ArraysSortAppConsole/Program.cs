@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            ISorteableArray sorteable = new BubbleSort();
+            ISorteableArray sorteable = new CoutingSort();
             int loopCount;
 
-            int[] array = new int[] { 2, 1, 4, 3 };
+            int[] array = new int[] { 9, 1, 2, 5, 9, 9, 2, 1, 3, 3 };
             var sorted = sorteable.DoSort(array, out loopCount);
 
             System.Console.WriteLine(loopCount + " Loop count");
