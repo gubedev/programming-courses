@@ -1,17 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+﻿using System.Windows;
 
 namespace DMS.UI
 {
@@ -23,6 +10,28 @@ namespace DMS.UI
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void OpenWindow_Click(object sender, RoutedEventArgs e)
+        {
+            BasicWindow basicWindow = new BasicWindow();
+            basicWindow.Show();
+        }
+
+        private void OpenDataGrid_Click(object sender, RoutedEventArgs e)
+        {
+            DataGridWindow dataGridWindow = new DataGridWindow();
+            dataGridWindow.Show();
+        }
+
+        private void OpenListView_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OpenDataTemplate_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

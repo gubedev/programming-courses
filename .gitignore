@@ -104,3 +104,7 @@ csharp/3-advance/generics/GenericsAppConsole/obj/Debug/GenericsAppConsole.exe
 csharp/3-advance/generics/GenericsAppConsole/obj/Debug/GenericsAppConsole.pdb
 csharp/3-advance/generics/GenericsAppConsole/obj/Debug/InheritanceAppConsole.csprojAssemblyReference.cache
 csharp/3-advance/patterns/creationals/FactoryMethod/.vs/FactoryMethod/DesignTimeBuild/.dtbcache.v2
+/csharp/2-intermediate/api/DMS/DMS.Library/bin/Debug
+/csharp/2-intermediate/api/DMS/DMS.Library/obj/Debug
+/csharp/2-intermediate/api/DMS/DMS.UI/bin/Debug
+/csharp/2-intermediate/api/DMS/DMS.UI/obj/Debug
