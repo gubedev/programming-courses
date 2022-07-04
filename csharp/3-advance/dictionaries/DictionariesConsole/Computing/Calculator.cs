@@ -1,5 +1,4 @@
-﻿using DictionariesConsole.Computing;
-using DictionariesConsole.Computing.Handlers;
+﻿using DictionariesConsole.Computing.Handlers;
 using System.Collections.Generic;
 
 namespace DictionariesConsole.Computing
